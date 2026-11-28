@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Backend runtime data & uploaded media
+server/data/
+server/uploads/
+.npm-cache/
